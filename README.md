@@ -26,6 +26,7 @@ Maintained by [TiorAI](https://tiorai.com/), which catalogues AI tools for a liv
 <!-- last-reviewed:end -->
 
 ## Contents
+- [Raphael](https://raphael.app/) – AI workspace for creative production — image, video, and design in one place.
 
 - [Interface design](#interface-design)
 - [Design to code](#design-to-code)
