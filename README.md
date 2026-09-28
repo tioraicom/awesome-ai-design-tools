@@ -140,6 +140,7 @@ The deck, which is the format most design decisions are actually explained in.
 - **[Adobe Express](https://www.adobe.com/express/)** — Brand kits applied across every asset a campaign needs, decks included. `Freemium` `Web` `iOS` `Android`
 - **[Beautiful.ai](https://www.beautiful.ai/)** — Slides that re-lay themselves as content is added, so alignment never drifts. `Paid` `Web`
 - **[Canva](https://www.canva.com/)** — Where a non-designer produces something presentable without a brief or a budget. `Freemium` `Web` `Windows` `macOS` `iOS` `Android`
+- **[EditableImage](https://editableimage.com/)** — Rebuilds a slide screenshot as a .pptx with real text boxes over a restored background, for decks that only survive as images. `Freemium` `Web`
 - **[Gamma](https://gamma.app/)** — Generates a deck as a responsive document rather than as fixed-size slides. `Freemium` `Web`
 
 ## How tools are selected
