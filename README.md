@@ -109,6 +109,7 @@ Interface motion, and the file formats that ship it.
 
 Objects and scenes, for people who are designers rather than modellers.
 
+- **[TeslaWraps](https://teslawraps.design)** — Browser Tesla Paint Shop wrap designer with 3D preview; core editing + PNG export free without an account (optional AI credits). `Freemium` `Web`
 - **[Spline](https://spline.design/)** — Builds 3D scenes that embed in a web page and respond to a scroll or a cursor. `Freemium` `Web` `Windows` `macOS`
 - **[Vectary](https://www.vectary.com/)** — Runs in the browser and publishes an embeddable configurator without a plugin. `Freemium` `Web`
 - **[Vizcom](https://vizcom.com/)** — Turns an industrial-design sketch into a rendered concept while keeping the drawn lines. `Freemium` `Web`
