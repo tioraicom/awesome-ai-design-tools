@@ -109,6 +109,7 @@ Interface motion, and the file formats that ship it.
 
 Objects and scenes, for people who are designers rather than modellers.
 
+- **[objekto](https://objekto.io/en)** — Designs a multi-part object as parametric CAD from a description, photo or sketch, then has it 3D printed and delivered in France. `Freemium` `Web`
 - **[Spline](https://spline.design/)** — Builds 3D scenes that embed in a web page and respond to a scroll or a cursor. `Freemium` `Web` `Windows` `macOS`
 - **[Vectary](https://www.vectary.com/)** — Runs in the browser and publishes an embeddable configurator without a plugin. `Freemium` `Web`
 - **[Vizcom](https://vizcom.com/)** — Turns an industrial-design sketch into a rendered concept while keeping the drawn lines. `Freemium` `Web`
